@@ -136,6 +136,7 @@ Thanks!
 ##### Linearization Fine-tuning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging in Pre-training of Large Language Models](https://arxiv.org/pdf/2505.12082) | 2025 |  Arxiv
 | [Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic](https://openreview.net/pdf?id=dj0TktJcVI) | 2025 |  ICLR | 
 | [Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic](https://arxiv.org/pdf/2407.07089) | 2024 |  Arxiv |
 | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/pdf?id=VLFhbOCz5D) | 2024 |ICLR  |
